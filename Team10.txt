@@ -1,0 +1,10 @@
+Team 10
+We wanted to solve the Bug 27319 - 
+Examples: comments when omitting start and end tags
+Implementation:
+Example 1: example illustrates why we cannot omit the start tag
+file: source
+line: 9211 - 9226
+Example 2: example illustrates why we cannot omit the end tag
+file: source
+line: 9228 - 9243
